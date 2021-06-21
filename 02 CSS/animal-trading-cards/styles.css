@@ -1,5 +1,7 @@
 .central_box {
     border: 1px solid gray;
+    padding: 1em;
+    width: 320px;
 }
 
 img {
