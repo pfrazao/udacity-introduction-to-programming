@@ -1,11 +1,11 @@
-.central_box {
+.main_box {
     border: 1px solid #d6d2d2;
     padding: 1em;
     width: 320px;
     box-shadow: 5px 5px #d6d2d2;
 }
 
-.text_box {
+.information_box {
     border: 1px solid #d6d2d2;
     padding: 10px;
     width: 280px;
