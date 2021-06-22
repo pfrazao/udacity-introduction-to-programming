@@ -3,6 +3,7 @@
     padding: 1em;
     width: 320px;
     box-shadow: 5px 5px #d6d2d2;
+    margin: auto;
 }
 
 .information-box {
@@ -13,6 +14,10 @@
 
 img {
     width: 300px;
+}
+
+span {
+    font-weight: bold;
 }
 
 ul.no-bullets {
