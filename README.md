@@ -4,7 +4,7 @@ This repository includes the projects done in the Udacity's [Introduction to Pro
 
 
 ## 1. Introduction to HTML
-In this section one develops a very simple HTML file, which can be seen [here](https://github.com/pfrazao/Udacity-Introduction-to-Programming/blob/main/01%20HTML/my_notes.html).    
+In this section one develops a very simple HTML file, which can be seen [here](https://github.com/pfrazao/Udacity-Introduction-to-Programming/blob/main/01%20HTML/notes.html).    
 
 
 ## 2. Introduction to CSS
