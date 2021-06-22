@@ -1,14 +1,14 @@
 .main-box {
-    border: 1px solid #d6d2d2;
+    border: 0.5px solid #8b898991;
     padding: 1em;
-    width: 320px;
-    box-shadow: 5px 5px #d6d2d2;
+    width: 310px;
+    box-shadow: 5px 5px #e6e2e2;
     margin: auto;
 }
 
 .information-box {
-    border: 1px solid #d6d2d2;
-    padding: 10px;
+    border: 0.5px solid #8b898991;
+    padding: 9.5px;
     width: 280px;
 }
 
