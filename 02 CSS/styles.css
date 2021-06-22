@@ -1,27 +1,37 @@
-.main-box {
-    border: 0.5px solid #8b898991;
-    padding: 1em;
-    width: 310px;
-    box-shadow: 5px 5px #e6e2e2;
+.no-space {
+    padding: 0;
     margin: auto;
 }
 
+div {
+    margin : auto;
+}
+
+.main-box {
+    border: 0.5px solid #8b898991;
+    padding: 13px;
+    width: 300px;
+    box-shadow: 5px 5px #e6e2e2;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+  }
+
 .information-box {
     border: 0.5px solid #8b898991;
-    padding: 9.5px;
-    width: 280px;
-}
-
-img {
-    width: 300px;
-}
-
-span {
-    font-weight: bold;
+    padding: 1em;
+    width: auto;
+    font-size: 9pt;
 }
 
 ul.no-bullets {
     list-style-type: none;
-    padding: 0;
-    margin: 0;
+}
+
+span {
+    font-weight: bold;
 }
