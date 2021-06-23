@@ -7,7 +7,7 @@ This repository includes the projects done in the Udacity's [Introduction to Pro
 In this section one develops a very simple HTML file, which can be seen [here](https://github.com/pfrazao/udacity-introduction-to-programming/blob/main/01%20HTML/notes.html).
 
 ## 2. Introduction to CSS
-After learning HTML one develops a simple animal trading card that includes CSS. The result can be seen here.
+After learning HTML one develops a simple animal trading card that includes CSS. The result can be seen [here](https://github.com/pfrazao/udacity-introduction-to-programming/tree/main/02%20CSS).
 
 
 ## 3. Introduction to Python
