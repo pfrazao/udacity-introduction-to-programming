@@ -1,6 +1,6 @@
 # Introduction to Programming
 
-This repository includes the projects done in the Udacity's [Introduction to Programming Nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000) (2021), which introduces HTML, CSS, Python, and Javascript.
+This repository includes the projects done in the Udacity's [Introduction to Programming Nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000) (2021), which introduces HTML, CSS, Python, and JavaScript.
 
 
 
