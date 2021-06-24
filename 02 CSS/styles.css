@@ -1,3 +1,7 @@
+body {
+    font-size: 9pt;
+}
+
 .no-space {
     padding: 0;
     margin: auto;
@@ -7,9 +11,9 @@ div {
     margin : auto;
 }
 
-.main-box {
+.card-container {
     border: 0.5px solid #8b898991;
-    padding: 13px;
+    padding: 1em;
     width: 300px;
     box-shadow: 5px 5px #e6e2e2;
 }
@@ -25,11 +29,10 @@ div {
     border: 0.5px solid #8b898991;
     padding: 1em;
     width: auto;
-    font-size: 9pt;
 }
 
 ul.no-bullets {
-    list-style-type: none;
+    list-style: none;
 }
 
 span {
