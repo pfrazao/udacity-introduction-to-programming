@@ -23,7 +23,7 @@ div {
     margin-left: auto;
     margin-right: auto;
     width: 300px;
-  }
+}
 
 .information-box {
     border: 0.5px solid #8b898991;
@@ -37,4 +37,8 @@ ul.no-bullets {
 
 span {
     font-weight: bold;
+}
+
+span-em {
+    font-style: italic;
 }
