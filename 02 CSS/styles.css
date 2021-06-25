@@ -31,7 +31,7 @@ div {
     width: auto;
 }
 
-ul.no-bullets {
+.no-bullets {
     list-style: none;
 }
 
