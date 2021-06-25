@@ -4,7 +4,7 @@ This repository includes the projects done in the Udacity's [Introduction to Pro
 
 
 
-### Projects [[link](http://introduction-to-programming.netlify.app)]
+### Projects [[link]](http://introduction-to-programming.netlify.app)
 1. [Simple HTML file](https://github.com/pfrazao/udacity-introduction-to-programming/blob/main/01%20HTML/notes.html)
 2. [Animal trading card](https://github.com/pfrazao/udacity-introduction-to-programming/tree/main/02%20CSS)
 3. Adventure Game
