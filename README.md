@@ -8,4 +8,4 @@ This repository includes the projects done in the Udacity's [Introduction to Pro
 1. [Simple HTML file](https://github.com/pfrazao/udacity-introduction-to-programming/blob/main/01%20HTML/notes.html)
 2. [Animal trading card](https://github.com/pfrazao/udacity-introduction-to-programming/tree/main/02%20CSS)
 3. Adventure Game
-4. Pixel Art Maker
+4. [Pixel Art Maker](https://github.com/pfrazao/udacity-introduction-to-programming/tree/main/04%20JavaScript)
