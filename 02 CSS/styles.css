@@ -35,10 +35,10 @@ div {
     list-style: none;
 }
 
-span {
+.span-bold {
     font-weight: bold;
 }
 
-span-em {
+.span-em {
     font-style: italic;
 }
